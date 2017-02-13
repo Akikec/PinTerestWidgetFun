@@ -1,0 +1,14 @@
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\bin\Debug\PinTerestWidget.exe.config
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\bin\Debug\PinTerestWidget.exe
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\bin\Debug\PinTerestWidget.pdb
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\PinTerestWidget.csprojResolveAssemblyReference.cache
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\MainWindow.g.cs
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\App.g.cs
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\PinTerestWidget_MarkupCompile.cache
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\PinTerestWidget_MarkupCompile.lref
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\MainWindow.baml
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\PinTerestWidget.g.resources
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\PinTerestWidget.Properties.Resources.resources
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\PinTerestWidget.csproj.GenerateResource.Cache
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\PinTerestWidget.exe
+C:\Users\Gareev\Documents\Visual Studio 2015\Projects\PinTerestWidgetFun\PinTerestWidget\obj\Debug\PinTerestWidget.pdb
